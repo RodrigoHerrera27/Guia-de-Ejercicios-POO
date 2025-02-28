@@ -123,5 +123,5 @@ public class PagoHorasExtras {
         } while (true); // Repetir hasta que el usuario decida salir
 
         JOptionPane.showMessageDialog(null, "Programa finalizado. ¡Gracias por usar el sistema!", "Finalizado", JOptionPane.INFORMATION_MESSAGE);
-    }}
+    }
 }
